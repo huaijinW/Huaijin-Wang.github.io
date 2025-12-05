@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Jury of M2 internship defense"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Jury"
+permalink: /teaching/jurym2
+venue: "University d'Evry Paris Saclay, Department Génie informatique"
+date: 2025-08-26 to 2025-09-03
+location: "Evry-Courcouronnes, France"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
