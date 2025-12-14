@@ -8,14 +8,14 @@ date: 2025-08-26 to 2025-09-03
 location: "Evry-Courcouronnes, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Acted as a defense committee member for M2 students' graduation internship.
 
-Heading 1
-======
+#Heading 1
+#======
 
-Heading 2
-======
+#Heading 2
+#======
 
-Heading 3
-======
+#Heading 3
+#======
 
